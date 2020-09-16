@@ -7,7 +7,6 @@ dependencies:
   - certifi
   - cycler
   - freetype
-  - icc_rt
   - icu
   - intel-openmp
   - jpeg
@@ -38,10 +37,7 @@ dependencies:
   - sqlite
   - tk
   - tornado
-  - vc
-  - vs2015_runtime
   - wheel
-  - wincertstore
   - xz
   - zlib
   - zstd
