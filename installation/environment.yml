@@ -1,4 +1,4 @@
-name: GeoGatewayNBs
+name: GeoGatewayNB
 channels:
   - conda-forge
   - defaults
