@@ -1,6 +1,6 @@
 # JupyterNotebooks
 
-### getDisplacment notebook
+### Setting up the environment to get the notebooks running
 
 
 1. Clone this repository
