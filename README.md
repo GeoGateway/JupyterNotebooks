@@ -1,7 +1,6 @@
 # JupyterNotebooks
 
-### Setting up the environment to get the notebooks running
-
+### Setting up the environment
 
 1. Clone this repository
 
