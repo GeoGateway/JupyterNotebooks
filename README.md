@@ -12,3 +12,5 @@
 
 There is also a requirmenets.txt file availible if you prefer to use that for other virtual environments. 
 
+### Notebook 
+For the demo, look at getDisplacement.ipynb in getDisplacement.  
